@@ -1,0 +1,36 @@
+.rojo{
+	color: #CE2804;
+}
+html {
+	background-color: #585858;
+}
+.caramelo{
+	color: #F0B721;
+}
+#intro1{
+	background-color: black;
+	margin: auto;
+	height: 100px;
+	width: 1000px;
+	text-align: center;
+}
+#titulo{
+	background-color: #B40404;
+	margin: auto;
+	height: 100px;
+	width: 1000px;
+	text-align: center;
+}
+@font-face {
+	font-family: "pdark";
+    font-style: normal;
+    font-weight: normal;
+    src: local(""), url("/Glosario/pdark.woff") format("woff"), url("/Glosario/pdark.tff") format("truetype");
+}	
+#titulo2{
+	color: black;
+	padding-top: 20px;
+}
+.dd{
+	background-image: url(http://assets1.ignimgs.com/2016/01/26/darkestdungeon1280jpg-19c48c_1280w.jpg);
+}
